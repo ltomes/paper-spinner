@@ -11,7 +11,7 @@ Element providing a multiple color material design circular spinner.
 ```
 <custom-element-demo>
   <template>
-    <script src="./bower_componentswebcomponentsjs/webcomponents-lite.js"></script>
+    <script src="./bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <link rel="import" href="paper-spinner.html">
     <link rel="import" href="paper-spinner-lite.html">
     <style is="custom-style">
